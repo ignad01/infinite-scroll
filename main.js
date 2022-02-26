@@ -43,9 +43,9 @@ function showLoading(){
         setTimeout(() => {
             page++;
             showPosts();
-        }, 300);
+        }, 500);
 
-    }, 1000);
+    }, 2000);
 }
 
 showPosts();
